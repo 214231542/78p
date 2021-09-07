@@ -2,7 +2,7 @@ var updatedImage = [
     'https://i.postimg.cc/MKdhy06Z/family.jpg',
     'https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/1200px-SpongeBob_SquarePants_character.svg.png',
     'https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Patrick_Star.svg/1200px-Patrick_Star.svg.png',
-    'https://static.wikia.nocookie.net/scumbob/images/a/ac/Squidward.png/revision/latest/top-crop/width/360/height/450?cb=20210321173246',
+    'https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Squidward_Tentacles.svg/1200px-Squidward_Tentacles.svg.png',
 ];
 
 var updatedName = [
